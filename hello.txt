@@ -1,29 +1,11 @@
-#include <iostream>
+i#iinclude <iostream>
 #include <stdlib>
 using namespace std;
 
 int main()
 {
 
-	222cout << "hello world" << endl;
-	555cout << "hello world" << endl;
-	cout << "hello world" << endl;
-	cout << "hello world" << endl;
-	cout << "hello world" << endl;
-	cout << "hello world" << endl;
-	cout << "hello world" << endl;
-	cout << "hello world" << endl;
-	cout << "hello world" << endl;
-	cout << "hahahahhah" << endl;
-
-		dnasdnasnp
-		dasdas
-	this is a hot-fix version
-	hahahhah
-change change change 
-2024.06.29 change change
-change
-change
+	cout << "git-test1 says hello" << endl;
 
 	return 0;
 }
