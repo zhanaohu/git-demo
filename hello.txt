@@ -6,6 +6,6 @@ int main()
 {
 
 	cout << "git-test1 says hello" << endl;
-
+	cout << "git-test2 says hello" << endl;
 	return 0;
 }
